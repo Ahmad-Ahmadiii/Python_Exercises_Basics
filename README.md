@@ -1,3 +1,3 @@
 # Python_Excercises_Basics
-* including: Python Exercises
+* These exercises are prepared by me **(Ahmad Ahmadi)**, and it's about python programming, hope you enjoy!
 * Level: Basic
